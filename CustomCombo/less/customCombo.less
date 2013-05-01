@@ -1,0 +1,36 @@
+/*
+ * Title: CustomCombo Styles
+ *
+ * Description: Styles for new combobox build with the CustomCombo Class
+ * Author: Kota, Luiz
+ * Version: 1.0
+ */
+.customCombo{
+	position: relative; width: 200px; font-size: 14px;
+
+	.activeItem{
+		text-decoration: none; cursor: pointer; padding: 5px 10px; overflow: hidden; border: 1px solid #eee; border-radius: 5px; height: 17px; line-height: 17px; background: #fff;
+
+		&, strong, span{ display: block; -moz-transition: all 0.4s; }
+		strong{ color: #333; font-weight: bold; float: left; font-size: 1em; width: 90%; opacity: 0.8; filter: alpha(opacity=80); }
+		span{ float: right; width: 12px; height: 8px; background: url( "images/arrow.png" ) no-repeat; margin: 5px -1px 0 0; opacity: 0.6; filter: alpha(opacity=60); }
+		&:hover{
+			background: #f9f9f9; border-color: #f1f1f1; 
+
+			span, strong{ opacity: 1; filter: alpha(opacity=100); }
+		}
+	}
+	.list{
+		position: absolute; margin: 0; padding: 0; width: 99%; border: 1px solid #eee; border-radius: 0 0 5px 5px; background: #fff; z-index: 50; left: 0; top: 31px; display: none; 
+
+		li{
+			font-size: 0.9em; padding: 3px 10px; cursor: pointer; -moz-transition: all 0.5s; list-style: none;
+
+			+ li{ border-top: 1px dashed #ddd; }
+			&.selected, &.selected:hover{ background: #eee; cursor: default; }
+			&:hover{ background: #f1f1f1; }
+		}
+	}
+}
+
+body{ font-family: Arial, sans-serif; }
