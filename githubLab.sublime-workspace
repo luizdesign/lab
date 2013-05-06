@@ -1,0 +1,696 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fro",
+				"frontAracaju2"
+			],
+			[
+				"cinza",
+				"cinzaEscuro"
+			],
+			[
+				"cin",
+				"cinzaClaro"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"fie",
+				"field"
+			],
+			[
+				"li",
+				"linkedinRegex"
+			],
+			[
+				"fi",
+				"fieldLength"
+			],
+			[
+				"fiel",
+				"field"
+			],
+			[
+				"url",
+				"urlRegex"
+			],
+			[
+				"is",
+				"isPhone"
+			],
+			[
+				"em",
+				"emailRegex"
+			],
+			[
+				"V",
+				"validation"
+			],
+			[
+				"get",
+				"getFields"
+			],
+			[
+				"form",
+				"formElement"
+			],
+			[
+				"side",
+				"sidebar"
+			],
+			[
+				"scroll",
+				"scrollPosition"
+			],
+			[
+				"set",
+				"setLimits"
+			],
+			[
+				"conta",
+				"containerHeight"
+			],
+			[
+				"top",
+				"topLimit"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"che",
+				"changePage"
+			],
+			[
+				"new",
+				"newID"
+			],
+			[
+				"pagi",
+				"paginationEvents"
+			],
+			[
+				"to",
+				"totalPerPage"
+			],
+			[
+				"tot",
+				"totalItensPerPage"
+			],
+			[
+				"Pagina",
+				"Pagination"
+			],
+			[
+				"Pa",
+				"Pagination"
+			],
+			[
+				"creat",
+				"createStructure"
+			],
+			[
+				"list",
+				"listItens"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"nav",
+				"navItens"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"close",
+				"closeLightbox"
+			],
+			[
+				"cre",
+				"createElements"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"open",
+				"openImage"
+			],
+			[
+				"image",
+				"imageIndex"
+			],
+			[
+				"slide",
+				"slideshow"
+			],
+			[
+				"na",
+				"navItens"
+			],
+			[
+				"op",
+				"openImage"
+			],
+			[
+				"ima",
+				"imageIndex"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"setS",
+				"setSlideshowStatus"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"scro",
+				"scrollValue"
+			],
+			[
+				"scr",
+				"scrollValue"
+			],
+			[
+				"sc",
+				"scrollValue"
+			],
+			[
+				"anima",
+				"animaScroll"
+			],
+			[
+				"wind",
+				"windowElement"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"sidebar",
+				"sidebarWidth"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"main",
+				"mainContent"
+			],
+			[
+				"outer",
+				"outerWidth"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"object",
+				"objectName"
+			],
+			[
+				"obje",
+				"objectName"
+			],
+			[
+				"ajax",
+				"ajaxRequest"
+			],
+			[
+				"coo",
+				"coordLongitude"
+			],
+			[
+				"coor",
+				"coordLatitude"
+			],
+			[
+				"user",
+				"userVerify"
+			],
+			[
+				"View",
+				"viewport"
+			],
+			[
+				"info",
+				"infoData"
+			],
+			[
+				"ve",
+				"userVerify"
+			],
+			[
+				"check",
+				"checkTypeSupport"
+			],
+			[
+				"fun",
+				"functionName"
+			],
+			[
+				"goTo",
+				"goToTarget"
+			],
+			[
+				"got",
+				"goToTop"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"over",
+				"overlay"
+			],
+			[
+				"p",
+				"printOptions"
+			],
+			[
+				"print",
+				"printPage"
+			],
+			[
+				"time",
+				"timeAnimation"
+			],
+			[
+				"elmt",
+				"elmtOverlay"
+			],
+			[
+				"tim",
+				"timeAnimation"
+			],
+			[
+				"ov",
+				"overlayElmt"
+			],
+			[
+				"overlay",
+				"overlayElmt"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"targe",
+				"targetEvent"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fixed",
+				"fixedTop"
+			],
+			[
+				"ini",
+				"initPositionX"
+			],
+			[
+				"po",
+				"posX"
+			],
+			[
+				"header",
+				"headerElmt"
+			],
+			[
+				"i",
+				"initPositionX"
+			],
+			[
+				"he",
+				"headerElmt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "CustomCombo/index.html",
+			"settings":
+			{
+				"buffer_size": 683,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/structure.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/lib/highlight.pack.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/class/pagination.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/structure/responsive.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/contact.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/notFound.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/404.html",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/tutorialsAndArticles.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/shareAndArticles.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/codeHightLight.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/tutorials-and-articles/tutorialsAndArticlesList.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/pagination.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/tutoriais-e-artigos.html",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/portfolio.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/portfolio.html",
+		"/Users/luizkota/Desktop/Projetos/portfolio/index.html",
+		"/Users/luizkota/Desktop/Projetos/portfolio/projeto.html",
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/class/lightbox.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/class/slideshow.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/lightbox.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/slideshow.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/projects/projectDetails.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/mixins/round.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/sidebar.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/generic.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/projects/projectList.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/contato.html",
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/contact.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/concursos-e-galerias.html",
+		"/Users/luizkota/Desktop/Projetos/portfolio/sobre-zkdesign.html",
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/lib/zepto.min.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/lib/zepto.pack.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/lib/jquery-1.9.1.pack.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/lib/jquery-1.9.1.min.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/class/scroll.class.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/reset.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/contests-and-galleries/galleries.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/contestsAndGalleries.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/home.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/mixins/gradient.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/form.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/mixins/shadow.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/contests-and-galleries/contests.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/mixins.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/mixins/backgrounds.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/global.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/main.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/structure.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/articleList.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/breadcrumb.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/projectList.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/navigation.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/oldBrowsers/resetOldBrowsers.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/list.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/fonts.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/concursos-e-galerias/galeria.less",
+		"/Users/luizkota/Desktop/Projetos/desafioMaujor/luiz-henrique-zanao-kota.html",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/utils.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/screen.css",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/mixins/transform.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/mixins/transitions.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/mixins/flex.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/mixins/animation.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/global.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/aside.php",
+		"/Users/luizkota/Desktop/Projetos/portfolio/js/lib/html5.js",
+		"/Users/luizkota/Desktop/Projetos/portfolio/footer.php",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/includes/mixins/opacity.less",
+		"/Users/luizkota/Desktop/Projetos/portfolio/less/fonts/screen.css",
+		"/Users/luizkota/Desktop/Projetos/Modular Boilerplate/index.html",
+		"/Users/luizkota/Desktop/Projetos/Modular Boilerplate/less/main.less",
+		"/Users/luizkota/Desktop/Projetos/Modular Boilerplate/less/includes/reset.less",
+		"/Users/luizkota/Desktop/Projetos/Modular Boilerplate/less/includes/oldBrowsers/resetOldBrowsers.less",
+		"/Users/luizkota/Desktop/Projetos/Modular Boilerplate/js/class/support.class.js",
+		"/Users/luizkota/Desktop/Projetos/Modular Boilerplate/js/class/html5Api/geoLocation.class.js",
+		"/Users/luizkota/Desktop/Projetos/Modular Boilerplate/js/class/html5Api/webStorage.class.js",
+		"/Users/luizkota/Desktop/Projetos/Modular Boilerplate/js/class/utils.class.js",
+		"/Users/luizkota/Desktop/Projetos/luizkota/weather/js/functions.js",
+		"/Users/luizkota/Desktop/Projetos/Modular Boilerplate/js/class/identify.class.js",
+		"/Users/luizkota/Desktop/Projetos/Modular Boilerplate/js/class/printInfo.class.js",
+		"/Users/luizkota/Desktop/Projetos/Modular Boilerplate/js/class/viewport.class.js",
+		"/Users/luizkota/Desktop/Projetos/luizkota/weather/js/options.js",
+		"/Users/luizkota/Desktop/Projetos/classes/regex.class.js",
+		"/Users/luizkota/Desktop/Projetos/index.html",
+		"/Users/luizkota/Desktop/Projetos/Less Boilerplate/index.html",
+		"/Users/luizkota/Desktop/Projetos/Less Boilerplate/js/class/support.class.js",
+		"/Users/luizkota/Desktop/Projetos/Less Boilerplate/js/lib/less-1.3.3.min.js",
+		"/Users/luizkota/Desktop/Projetos/Less Boilerplate/js/lib/jquery-1.9.1.min.js",
+		"/Users/luizkota/Desktop/Projetos/luizkota/curso-front-end/js/functions.js",
+		"/Users/luizkota/Desktop/Projetos/luizkota/curso-front-end/index.html",
+		"/Users/luizkota/Desktop/Projetos/luizkota/curso-front-end/desenvolvimento-web.html",
+		"/Users/luizkota/Desktop/Projetos/luizkota/curso-front-end/js/class/scrollTo.class.js",
+		"/Users/luizkota/Desktop/Projetos/luizkota/curso-front-end/less/main.less",
+		"/Users/luizkota/Desktop/Projetos/luizkota/curso-front-end/js/class/window.class.js",
+		"/Users/luizkota/Desktop/Projetos/luizkota/curso-front-end/js/class/fixedElement.class.js",
+		"/Users/luizkota/Desktop/Projetos/curso/frontEnd/desenvolvimento/index.html",
+		"/Users/luizkota/Desktop/Projetos/curso/frontEnd/index.html",
+		"/Users/luizkota/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/luizkota/Desktop/teste.less",
+		"/Users/luizkota/Desktop/Projetos/curso/frontEnd/referencias/index.html",
+		"/Users/luizkota/Desktop/frontEnd/html5/index.html",
+		"/Users/luizkota/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/luizkota/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/luizkota/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/luizkota/Desktop/Projetos/portfolio"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"slideshowControl",
+			"<script type=\"text/javascript\" src=\"js/lib/less-1.3.3.pack.js\"></script>",
+			"less-1.3.3.min.js",
+			"less.1.3.3.min.js",
+			"radius",
+			"localStorage",
+			"p",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<script type=\"text/javascript\" src=\"js/lib/jquery-1.9.1.pack.js\"></script>\n		<script type=\"text/javascript\" src=\"js/lib/less-1.3.3.pack.js\"></script>\n		<script type=\"text/javascript\" src=\"js/class/scroll.class.js\"></script>\n		<script type=\"text/javascript\" src=\"js/structure/responsive.js\"></script>\n		<script type=\"text/javascript\" src=\"js/structure.js\"></script>",
+			"less-1.3.3.pack.js",
+			"less.1.3.3.pack.js"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CustomCombo/index.html",
+					"settings":
+					{
+						"buffer_size": 683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,55 @@
+@import "includes/reset.less";
+@import "main.less";
+
+#map{
+	margin: -270px 0 0 -250px; position: absolute; top: 50%; left: 50%; .mapTransform( 30deg, 0.85 );
+
+	&, span{ height: 500px; width: 500px; }
+	span{
+		background: url( "images/map.jpg" ) no-repeat; box-shadow: -15px -10px 150px 15px #000 inset; .animation( mapa, 60s, infinite, linear ); .globeTransform( 3deg, 0.95 );
+
+		&:after, &{ display: block; border-radius: 500px; }
+		&:after{ position: absolute; .shadowTransform( 87deg, -3deg ); bottom: -21%; left: 43%; content: ""; background: rgba(0, 0, 0, 0.4); z-index: -1; height: 35%; width: 20%; box-shadow: 0 0 160px 25px #000; .opacity( 0.75 ); }
+	}
+}
+
+@-moz-keyframes mapa{
+	0%{ background-position: left top; }
+	100%{ background-position: -791px top; }
+}
+@-webkit-keyframes mapa{
+	0%{ background-position: left top; }
+	100%{ background-position: -791px top; }
+}
+@-ms-keyframes mapa{
+	0%{ background-position: left top; }
+	100%{ background-position: -791px top; }
+}
+@-o-keyframes mapa{
+	0%{ background-position: left top; }
+	100%{ background-position: -791px top; }
+}
+
+.mapTransform( @rotate: 0deg, @scale: 1 ){
+	-moz-transform: rotateY( @rotate ) scaleY( @scale );
+	-webkit-transform: rotateY( @rotate ) scaleY( @scale );
+	-ms-transform: rotateY( @rotate ) scaleY( @scale );
+	-o-transform: rotateY( @rotate ) scaleY( @scale );
+	transform: rotateY( @rotate ) scaleY( @scale );
+}
+
+.globeTransform( @rotate, @scale ){
+	-moz-transform: rotate( @rotate ) scaleX( @scale );
+	-webkit-transform: rotate( @rotate ) scaleX( @scale );
+	-ms-transform: rotate( @rotate ) scaleX( @scale );
+	-o-transform: rotate( @rotate ) scaleX( @scale );
+	transform: rotate( @rotate ) scaleX( @scale );
+}
+
+.shadowTransform( @rotateX, @rotateY ){
+	-moz-transform: rotateX( @rotateX ) rotateY( @rotateY );
+	-webkit-transform: rotateX( @rotateX ) rotateY( @rotateY );
+	-ms-transform: rotateX( @rotateX ) rotateY( @rotateY );
+	-o-transform: rotateX( @rotateX ) rotateY( @rotateY );
+	transform: rotateX( @rotateX ) rotateY( @rotateY );	
+}
